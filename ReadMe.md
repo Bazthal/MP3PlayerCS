@@ -10,7 +10,7 @@ This is the original version of my MP3Player project, written in C# over 10 year
 - Available for reference and archival
 
 ## Legacy Screenshot
-![UI](./Resources/UI.png)
+![UI](./MP3PlayerCS/Resources/UI.png)
 
 ## This project originally depended on:
 - `bass.dll` – [BASS audio library](https://www.un4seen.com/)
