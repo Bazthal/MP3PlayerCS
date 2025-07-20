@@ -1,9 +1,9 @@
-﻿MIT License
-
-Copyright (c) 2025 Simon Kindleysides
-
 NOTE: This project references BASS.NET and BASS audio library, which are third-party components
 with their own licenses. These files are not included and are not covered by the MIT License below.
+
+MIT License
+
+Copyright (c) 2025 Simon Kindleysides
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
