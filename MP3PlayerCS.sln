@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MP3PlayerCS", "MP3PlayerCS\MP3PlayerCS.csproj", "{1B029698-B96C-4F6A-AFB7-5F7C05984729}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}"
+	ProjectSection(SolutionItems) = preProject
+		LICENSE = LICENSE
+		ReadMe.md = ReadMe.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B029698-B96C-4F6A-AFB7-5F7C05984729}.Debug|x86.ActiveCfg = Debug|x86
+		{1B029698-B96C-4F6A-AFB7-5F7C05984729}.Debug|x86.Build.0 = Debug|x86
+		{1B029698-B96C-4F6A-AFB7-5F7C05984729}.Release|x86.ActiveCfg = Release|x86
+		{1B029698-B96C-4F6A-AFB7-5F7C05984729}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D373F95-AF1E-43A7-8F86-EFE08AD02230}
+	EndGlobalSection
+EndGlobal
